@@ -3,6 +3,6 @@ Topics:
 - Variables
 - Console Input/Output
 - Constants
-- Conditions (if-else)
+- Conditions (```if```-```else```)
 
 Date of Completion: 10/09/2017
